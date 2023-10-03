@@ -9,7 +9,7 @@ Mehr Informationen zu Nix/NixOS gibt es auf der [offiziellen Website](https://ni
 
 In regelmäßigen Treffen wollen wir mit euch zusammen unser Wissen über Nix(OS) vertiefen, zusammen an Systemkonfigurationen hacken und Software packagen. Explizit wollen wir auch Menschen ansprechen, die Nix noch nicht kennen, aber gerne ausprobieren würden und euch beim Einstig unterstützen.
 
-### Was muss ich mitbringen?
+### Was solltest du mitbringen?
 
 Bring am besten einen Laptop mit Linux mit. Alternativ könnt ihr auch einen bootbaren USB-Stick mitbringen, oder euch eine VM aufsetzen. Wir helfen euch natürlich auch gern, Nix/NixOS auf einem System, das ihr mitbringt, zu installieren.
 

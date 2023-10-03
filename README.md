@@ -1,3 +1,3 @@
-# Nix Learning Group
-
-Meetup in Bochum for Nix/NixOS users and those who want to become one
+<p align="center">
+  <img src="./assets/logo-text.1600x400t.googleforms.png">
+</p>

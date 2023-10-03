@@ -11,7 +11,7 @@ In regelmäßigen Treffen wollen wir mit euch zusammen unser Wissen über Nix(OS
 
 ### Was muss ich mitbringen?
 
-Bring am besten einen Laptop mit Linux mit. Alternativ könnt ihr auch einen bootbaren USB-Stick mitbringen, oder euch eine VM aufsetzen. Wir helfen euch natürlich auch gern, Nix/NixOS auf jedem System, das ihr mitbringt, zu installieren.
+Bring am besten einen Laptop mit Linux mit. Alternativ könnt ihr auch einen bootbaren USB-Stick mitbringen, oder euch eine VM aufsetzen. Wir helfen euch natürlich auch gern, Nix/NixOS auf einem System, das ihr mitbringt, zu installieren.
 
 ### Pizza?
 

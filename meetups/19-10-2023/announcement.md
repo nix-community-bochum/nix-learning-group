@@ -15,4 +15,4 @@ Bring am besten einen Laptop mit Linux mit. Alternativ könnt ihr auch einen boo
 
 ### Pizza?
 
-Pizza! Und Getränke. Sag uns vorher am besten Bescheid, dass du planst zu kommen, damit wir entsprechend kalkulieren können.
+Pizza! Und Getränke. Sag uns vorher am besten Bescheid, dass du planst zu kommen.

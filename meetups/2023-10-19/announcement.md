@@ -10,7 +10,7 @@ Gemeinsam wollen wir euch zum Meetup der Nix(OS) Learning Group der Nix-Communit
 
 ### Wo?
 
-Ruhr-Universität Bochum, Raum MC 1.30 / MC 1.31. Eine Anfahrtsbeschreibung findet ihr auf der [Webseite der Uni](https://www.ruhr-uni-bochum.de/de/anreise-zur-ruhr-universitaet). Das Gebäude MC ist grün im beigefügten Campusplan eingezeichnet. Kntaktiert uns gerne für einen detaillierten Lageplan zur Rollstuhlgerechten Anreise.
+Ruhr-Universität Bochum, Raum MC 1.30 / MC 1.31. Eine Anfahrtsbeschreibung findet ihr auf der [Webseite der Uni](https://www.ruhr-uni-bochum.de/de/anreise-zur-ruhr-universitaet). Das Gebäude MC ist grün im beigefügten Campusplan eingezeichnet. Die Räume MC 1.30 / MC 1.31 finden sich sehr zentral im ersten Stock. Kontaktiert uns gerne für einen detaillierten Lageplan zur rollstuhlgerechten Anreise.
 
 ### Wer?
 

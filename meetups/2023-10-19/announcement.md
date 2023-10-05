@@ -19,4 +19,4 @@ Bring am besten einen Laptop mit Linux mit. Alternativ könnt ihr auch einen boo
 
 ### Pizza?
 
-Pizza! Und Getränke. Sag uns vorher am besten Bescheid, dass du planst zu kommen.
+Pizza! Und Getränke. Sag uns vorher am besten über [unser Anmeldeformular](https://docs.google.com/forms/d/e/1FAIpQLSdiwTjrGvKh7Y4ceWz1OgOvz7YysbC56_6en2ZBR0VmszcOQw/viewform?usp=send_form) Bescheid, dass du planst zu kommen.

@@ -1,4 +1,22 @@
-## Announcement text draft
+# Nix(OS) Learning Group Meetup #1
+
+Gemeinsam wollen wir euch zum Meetup der Nix(OS) Learning Group der Nix-Community Bochum einladen. Es gibt interessante Talks, spannende Gespräche und spaßiges Hacking an Nix(OS).
+
+## Infos
+
+### Wann?
+
+19.10.2023, ca. 18:00-22:00
+
+### Wo?
+
+Ruhr-Universität Bochum, Raum MC 1.30 / MC 1.31. Eine Anfahrtsbeschreibung findet ihr auf der [Webseite der Uni](https://www.ruhr-uni-bochum.de/de/anreise-zur-ruhr-universitaet). Das Gebäude MC ist grün im beigefügten Campusplan eingezeichnet. Die Räume MC 1.30 / MC 1.31 finden sich sehr zentral im ersten Stock. Kontaktiert uns gerne für einen detaillierten Lageplan zur rollstuhlgerechten Anreise.
+
+### Wer?
+
+Absolut jede*r mit Interesse an Nix(OS). Ihr müsst keine Vorerfahrung mit Nix mitbringen.
+
+## FAQ
 
 ### Was ist Nix?
 

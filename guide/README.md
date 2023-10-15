@@ -6,7 +6,7 @@
 
 ### Installation
 
-- [Determinate Systems Nix Installer](https://github.com/DeterminateSystems/nix-installer) is what we would recommend to installing Nix on another Linux distribution.
+- [Determinate Systems Nix Installer](https://github.com/DeterminateSystems/nix-installer) is what we would recommend to install Nix on another Linux distribution.
 
 ### Nix language & packaging
 

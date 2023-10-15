@@ -10,7 +10,7 @@
 
 ### Nix language & packaging
 
-- [Nix Pills](https://nixos.org/guides/nix-pills/) is a great tutorial series that explain essential concepts of Nix and of packaging software with Nix. It also has an introduction to the Nix language.
+- [Nix Pills](https://nixos.org/guides/nix-pills/) is a great tutorial series that explains essential concepts of Nix and of packaging software with Nix. It also has an introduction to the Nix language.
 - [Package existing software - nix.dev](https://nix.dev/) is a tutorial that guides you through packaging a C/C++ program.
 - [Nix - A One Pager](https://github.com/tazjin/nix-1p) everything short and on one page, in case you are in a hurry.
 

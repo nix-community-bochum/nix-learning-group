@@ -34,6 +34,7 @@ Sometimes, it isn't easy to fine what you are looking for. Here are some tips th
 - [NixOS manual](https://nixos.org/manual/nixos/unstable/) documents how to install and maintain a NixOS installation, and covers many topics of system configuration.
 - [GitHub search](https://github.com/search?q=zramSwap.enable+language%3ANix&type=code&l=Nix) lets you search the Nix code and configuration of other people.
 - [NixOS wiki](https://nixos.wiki/) has many helpful articles to specific topics, for example the [NixOS boot process](https://nixos.wiki/wiki/Bootloader)
+- [Nix/NixOS cheat sheet](https://nixcademy.com/downloads/cheatsheet.pdf) shows most common commands on two pages.
 
 ## Get the concepts
 
